@@ -1,0 +1,12 @@
+# Dependencies and package-manager caches
+node_modules/
+.vite/
+
+# Build output and TypeScript incremental state
+dist/
+*.tsbuildinfo
+
+# Local environment files
+.env
+.env.*
+!.env.example
