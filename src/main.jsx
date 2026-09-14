@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react'; 
 import { createRoot } from 'react-dom/client';
 import { ArrowDownRight, ArrowUpRight, BrainCircuit, ChevronRight, GitFork, Layers3, Mail, Menu, Network, Sparkles, X } from 'lucide-react';
 import './styles.css';
